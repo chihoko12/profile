@@ -67,22 +67,22 @@ a:hover {
 
 .card-white {
   background:white;
-  padding:30px;
+  padding:30px 50px;
   box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
   border-radius:4px;
   margin: 30px 0px;
   text-align: center;
 }
 
-.btn-blue {
-  background-color:#035AA6;
+.btn-green {
+  background-color:#3B6978;
   color: white;
   padding:15px 20px;
   border-radius:4px;
   text-decoration: none
 }
 
-.btn-blue:hover {
+.btn-green:hover {
   background-color:black;
   color:white;
 }
@@ -105,4 +105,9 @@ a:hover {
 
 .list-inline i:hover {
   color:black;
+}
+
+.list-inline img{
+  width: 32px;
+  height: 32px;
 }
