@@ -90,7 +90,6 @@ a:hover {
 .list-inline {
   list-style: none;
   padding-left: 0px;
-
 }
 
 .list-inline li {
@@ -110,4 +109,19 @@ a:hover {
 .list-inline img{
   width: 32px;
   height: 32px;
+}
+
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
 }
